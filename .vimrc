@@ -27,8 +27,8 @@ filetype plugin indent on    " required
 
 " Auto default settings
 set number
-hi CursorLine     cterm=NONE ctermbg=lightgray ctermfg=blakc guibg=lightgray guifg=black
-hi CursorColumn   cterm=NONE ctermbg=lightgray ctermfg=blakc guibg=lightgray guifg=black
+hi CursorLine     cterm=NONE ctermbg=lightgray ctermfg=black guibg=lightgray guifg=black
+hi CursorColumn   cterm=NONE ctermbg=lightgray ctermfg=black guibg=lightgray guifg=black
 
 " enable vim syntax highlighting
 syntax enable
